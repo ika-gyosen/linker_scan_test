@@ -1,2 +1,2 @@
 # linker_scan_test
-ゴミプログラム
+STのCubeMX内に散らばっている.ldファイルを集めるためのスクリプト
